@@ -1,0 +1,7 @@
+script \skʁipt\ masculin
+
+    (Calligraphie, Typographie) Système d’écriture simplifiée, où les lettres non liées et réduites à une combinaison de cercles et de traits sont proches des caractères d’imprimerie.
+        L’usage du script, dans les écritures latines, n’est qu’un nouvel alignement de l’écriture manuelle sur l’imprimé. — (L’Histoire et ses méthodes, 1961, page 529)
+    (Programmation) Programme en langage interprété, également appelé langage de script.
+        Est-ce une nouvelle étape de votre carrière professionnelle où, n’étant pas informaticien, vous êtes amené à programmer des macros ou des scripts complexes ? — (Franck Ebel, Sébastien Rohaut, Algorithmique : Techniques fondamentales de programmation – Exemples en Python, Saint Herblain, Éditions ENI, février 2018, collection « Ressources Informatiques », 2e édition, Avant-propos)
+    (Informatique) Macro-commande, macrocommande ou macro, programme constitué d’une suite de commandes dispensant l’utilisateur de les saisir, et permettant d’effectuer une fonction particulière ou de contribuer à l’exécution d’un autre programme.
